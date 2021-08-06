@@ -2,4 +2,5 @@
 test
 12345
 시계
-한글
+수정과 add /commit 두번 
+한번에 push
